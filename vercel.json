@@ -1,0 +1,6 @@
+{
+  "installCommand": "cd landing-foka && npm install",
+  "buildCommand": "cd landing-foka && npm run build",
+  "outputDirectory": "landing-foka/dist",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
