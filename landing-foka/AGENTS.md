@@ -1,6 +1,6 @@
 # landing-foka
 
-Ecommerce de roupas masculinas (FOKA), réplica da interface do projeto `ModeloFoka` com páginas funcionais, carrinho e quick-view de produto.
+Ecommerce de roupas masculinas (FOKA) com páginas funcionais, carrinho e quick-view de produto.
 
 ## Scripts
 
